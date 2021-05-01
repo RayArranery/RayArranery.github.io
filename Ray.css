@@ -1,0 +1,22 @@
+body
+{background-image: url('jesko.jpg');
+color: #fff;
+background-size: cover ;}
+
+.ikan
+{background:whitesmoke;
+color:darkred;}
+
+p
+
+{font-weight: 800; 
+font-style: italic;
+margin: 25px;
+text-align: justify;}
+
+.ayam
+{color:black;}
+
+.kucing
+{background-color: rebeccapurple;
+text-align: center;}
